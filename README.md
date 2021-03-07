@@ -34,10 +34,3 @@ generar de acuerdo a los contratos: solicitudes, certificaciones laborales y cer
 - FrontEnd (HelpViews) 
 - Backend (CertServices)
 
-####Test Repository
-Test Brayan
-<<<<<<< HEAD
-Test Angélica
-Test Daniela
-=======
->>>>>>> a7c17c5824a327001f8bfbd8da3654ee7a1abfde
